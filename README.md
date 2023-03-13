@@ -1,0 +1,1 @@
+# codeforces-task-Way-Too-Long-Words.
