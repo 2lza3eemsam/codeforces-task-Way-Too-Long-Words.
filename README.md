@@ -1,7 +1,5 @@
 # codeforces-task-Way-Too-Long-Words.
 # A. Way Too Long Words
-# time limit per test: 1 second
-# memory limit per test: 256 megabytes
 
 Sometimes some words like "localization" or "internationalization" are so long that writing them many times in one text is quite tiresome.
 
